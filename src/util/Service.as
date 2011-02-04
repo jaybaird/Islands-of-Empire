@@ -12,14 +12,14 @@ package util {
     import gfx.Hud;
     
     public class Service {
-        public static const MOCHI_ID:String = "2cccf04597805512";
+        public static const MOCHI_ID:String = "";
         public static const LEADERBOARD_ID:String = "";
         
-        public static const PLAYTOMIC_ID:int = 762;
-        public static const PLAYTOMIC_GUID:String = "a71bf075-753b-4c83-8a69-2b46d505b4c0";
+        public static const PLAYTOMIC_ID:int = 0;
+        public static const PLAYTOMIC_GUID:String = "0";
         
-        public static const AGI_DEV_KEY:String = "f555f1780e3058bcd5c2359934cef066";
-        public static const AGI_GAME_KEY:String = "islands-of-empire";
+        public static const AGI_DEV_KEY:String = "";
+        public static const AGI_GAME_KEY:String = "";
         
         private static var _instance:Service;
         private static var _initialized:Boolean;
