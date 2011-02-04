@@ -1,5 +1,7 @@
 Islands of Empire
 
+You can play the game here:
+http://armorgames.com/play/10238/islands-of-empire
 
 Here is the big pile of game code for the Armor Games' game Island of Empire I've been working on for over a year.
 
