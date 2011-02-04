@@ -3,9 +3,9 @@ Islands of Empire
 You can play the game here:
 http://armorgames.com/play/10238/islands-of-empire
 
-Here is the big pile of game code for the Armor Games' game Island of Empire I've been working on for over a year.
+Here is the big pile of code for the game I've been working on for over a year. It was my first released game *ever* and my second large AS3 project I've ever undertaken.
 
-You'll need the following external libraries:
+You will need the following external libraries:
 
 AS3Signals - https://github.com/robertpenner/as3-signals
 Bit101 Components - http://www.minimalcomps.com/
