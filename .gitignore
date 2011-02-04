@@ -1,0 +1,7 @@
+.DS_Store
+*.swf
+/*.tmproj
+deploy
+*.cache
+*.air
+/ioe_punk.tmproj
